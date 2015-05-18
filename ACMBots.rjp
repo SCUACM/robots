@@ -1,0 +1,13 @@
+Cookie=hbp
+Version=1
+MainClass=MyBot
+StackSize=200
+Autorun=false
+BuildBeforeLoad=true
+OpenFile=MyBot.java
+OpenFile=DoBeep.java
+OpenFile=DoNothing.java
+OpenFile=Move.java
+OpenFile=Screen.java
+OpenFile=StaticTextScreen.java
+OpenFile=ScreenManager.java
