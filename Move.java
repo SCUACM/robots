@@ -1,5 +1,5 @@
 import com.ridgesoft.intellibrain.IntelliBrain;
-import com.ridgesoft.robotics.Servo;
+import com.ridgesoft.robotics.Servo; //Look in docs for this for the functions to move the robot
 
 public class Move implements Runnable //Runnable implies that you can have this program run in the background
 {
